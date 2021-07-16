@@ -6,7 +6,7 @@
 - show stars of this repo
 - direct link to visit this repo
 
-#### used
+#### Technolgies used
 - html
 - css
 - javascript
