@@ -7,10 +7,11 @@
 - direct link to visit this repo
 
 #### Technolgies used
-- html
-- css
-- javascript
-- github API
+- HTML
+- CSS
+- Javascript
+- Sweet Alert
+- Github API
 
 #### issues 
 - not responsive
