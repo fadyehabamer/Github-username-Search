@@ -11,3 +11,7 @@
 - css
 - javascript
 - github API
+
+#### issues 
+- not responsive
+- I cant handle, when user search for an invalid username
